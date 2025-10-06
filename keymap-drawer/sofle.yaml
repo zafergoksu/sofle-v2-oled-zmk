@@ -39,7 +39,7 @@ layers:
   - (
   - )
   - '|'
-  - {t: ▽, type: trans}
+  - '~'
   - '='
   - '-'
   - KP PLUS
