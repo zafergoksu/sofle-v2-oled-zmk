@@ -46,7 +46,7 @@ layers:
   - {t: ▽, type: trans}
   - '['
   - {t: ▽, type: trans}
-  - '&C_PLAY_PAUSE'
+  - PLAY PAUSE
   - ']'
   - {t: ▽, type: trans}
   - ;
