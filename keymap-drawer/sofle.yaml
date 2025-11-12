@@ -27,7 +27,7 @@ layers:
   - '9'
   - '0'
   - {t: ▽, type: trans}
-  - '`'
+  - LSHIFT
   - '!'
   - '@'
   - '#'
@@ -39,20 +39,20 @@ layers:
   - (
   - )
   - '|'
-  - '~'
+  - {t: ▽, type: trans}
   - '='
   - '-'
   - KP PLUS
-  - '{'
-  - '}'
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
+  - {t: ▽, type: trans}
+  - '&C_PLAY_PAUSE'
   - ']'
+  - {t: ▽, type: trans}
   - ;
   - ':'
   - \
-  - {t: ▽, type: trans}
+  - '`'
   - '&studio_unlock'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
